@@ -33,6 +33,8 @@ void loop() {
 use this arduino file [arduino_template.ino](ardunio_template_2.ino)
 [the bear file](bear/file_bear) 
 
+![squidward](https://th.bing.com/th/id/R.7c40911b876745edcd1d2051d9038845?rik=mTMpCzVF4GYUJQ&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2f66-663864_spongebob-squarepants-squidward-by-squidward-dab-wallpaper-iphone.png&ehk=YBfFcnQHDHQsdWj6RHOgA1XihogeFSxUuSTn71Q7DiE%3d&risl=&pid=ImgRaw&r=0)
+
 ![image of wood](images/wood.jpg)
 
 ![spongebob](images/R.jpg)
