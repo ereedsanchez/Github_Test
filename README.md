@@ -19,7 +19,7 @@ task list
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] task 3
 
-Hollor at your boy @github/ereedsanchez
+Hollor at your boy @github/joehou45
 
 **This is a great project for destroying all evil hackers in the world**
 
