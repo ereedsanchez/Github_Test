@@ -6,6 +6,10 @@ This is a list
 - two item
 - three item
 
+1. one
+2. two
+3. three
+
 **This is a great project for destroying all evil hackers in the world**
 
 * *This is a great project for destroying all evil hackers in the world* *
