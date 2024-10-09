@@ -71,7 +71,7 @@ use this arduino file [arduino_template.ino](ardunio_template_2.ino)
 
 [![image of wood](images/wood.jpg)]
 
-[![youtube video](images/Screenshot 2024-10-09 153000.png)](https://youtube.com)
+[![youtube video](images/video.png)](https://youtube.com)
 
 ![spongebob](images/R.jpg)
 
