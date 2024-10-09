@@ -69,7 +69,7 @@ use this arduino file [arduino_template.ino](ardunio_template_2.ino)
 
 ![squidward](https://th.bing.com/th/id/R.7c40911b876745edcd1d2051d9038845?rik=mTMpCzVF4GYUJQ&riu=http%3a%2f%2fclipart-library.com%2fnewhp%2f66-663864_spongebob-squarepants-squidward-by-squidward-dab-wallpaper-iphone.png&ehk=YBfFcnQHDHQsdWj6RHOgA1XihogeFSxUuSTn71Q7DiE%3d&risl=&pid=ImgRaw&r=0)
 
-[![image of wood](images/wood.jpg)](https://youtube.com)
+[![image of wood](images/wood.jpg)][![youtube video](images/Screenshot 2024-10-09 153000.png)](https://youtube.com)
 
 ![spongebob](images/R.jpg)
 
