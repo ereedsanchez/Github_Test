@@ -29,7 +29,6 @@ Hollor at your boy @github/joehou45
   ~~Bug 27: Upload problems for user~~
 
 This is a great project for destroying all **evil hackers** in the world
-
 ***This is a great project for destroying all **evil hackers** in the world***
 
 This is a great project for destroying all <sub>evil hackers</sub> in the world
