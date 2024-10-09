@@ -17,3 +17,14 @@ This is a great project for destroying all <sub>evil hackers</sub> in the world
 This is a great project for destroying all <sup>evil hackers</sup> in the world
 
 > Evil is Evil
+
+Snipit of code from working project
+
+```
+void setup() {
+  // put your setup code here, to run once:
+}
+void loop() {
+  // put your main code here, to run repeatedly:
+}
+```
