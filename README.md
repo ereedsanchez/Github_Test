@@ -35,6 +35,8 @@ use this arduino file [arduino_template.ino](ardunio_template_2.ino)
 
 ![image of wood](images/wood.jpg)
 
+![spongebob](images/R.jpg)
+
 
 
 
